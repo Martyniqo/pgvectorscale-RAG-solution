@@ -1,0 +1,23 @@
+[tool.poetry]
+package-mode = false
+name = "pgvectorscale-rag-solution"
+version = "0.1.0"
+description = ""
+authors = ["Martyniqo <rachanczykmartyna@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+openai = "^1.52.1"
+psycopg = "^3.2.3"
+python-dotenv = "^1.0.1"
+timescale-vector = "^0.0.7"
+instructor = "^1.6.3"
+anthropic = "^0.37.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+package-mode = false
