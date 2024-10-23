@@ -15,6 +15,7 @@ python-dotenv = "^1.0.1"
 timescale-vector = "^0.0.7"
 instructor = "^1.6.3"
 anthropic = "^0.37.1"
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]

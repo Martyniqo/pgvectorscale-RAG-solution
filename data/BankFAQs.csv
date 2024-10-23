@@ -1,4 +1,4 @@
-Question,Answer,Class
+question,answer,category
 Do I need to enter ‘#’ after keying in my Card number/ Card expiry date/ CVV number,Please listen to the recorded message and follow the instructions while entering your card details.,security
 What details are required when I want to perform a secure IVR transaction,"To perform a secure IVR transaction, you will need your 16-digit Card number, Card expiry date, CVV number, mobile number and IVR password.",security
 How should I get the IVR Password  if I hold an add-on card,An IVR password can be requested only from the registered mobile number and will be sent to the registered mobile number / email ID of the primary card holder only.,security
@@ -57,3 +57,6 @@ Can I set my Personal Assurance Message to be the same as my VBV / MSC Password,
 What happens if I try to make a purchase at a merchant that doesn't participate in the Verified by Visa / MasterCard Securecode service,"You will not be prompted to enter your for Verified by Visa / MasterCard Securecode password on these websites.By shopping at websites participating Verified by Visa / MasterCard Securecode merchants, you have the extra layer of security as the transactions are authenticated using your Verified by Visa / MasterCard Securecode password.",security
 Can I get the benefit of Verified by Visa/ MasterCard SecureCode security at online stores that are not participating in the service,"No. you can only get the benefits of Verified by Visa/ MasterCard SecureCode at the participating online stores. However a number of online stores have the service available to them. In the meantime, if an online stores you trust is not yet participating; you can perform the transaction using NetSafe. Click here to know more. View more",security
 What security do I need to provide to obtain a Business loan,"To obtain the loan, there is absolutely no need to provide any security or collateral.",loans
+What is the maximum loan amount that I can avail,"The maximum loan amount that you can avail is Rs. 40 lakhs.",loans
+What is the minimum loan amount that I can avail,"The minimum loan amount that you can avail is Rs. 1 lakh.",loans
+What is the tenure of the loan,"The tenure of the loan is 12 to 48 months.",loans
