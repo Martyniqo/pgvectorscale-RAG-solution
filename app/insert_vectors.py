@@ -4,11 +4,17 @@ import pandas as pd
 from database.vector_store import VectorStore
 from timescale_vector.client import uuid_from_time
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+api_key = os.getenv('OPENAI_API_KEY')
+
 # Initialize VectorStore
 vec = VectorStore()
 
 # Read the CSV file
-df = pd.read_csv("../data/BankFAQ.csv", sep=",")
+df = pd.read_csv("data/BankFAQs.csv", sep=",")
 
 
 # Prepare data for insertion
